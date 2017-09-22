@@ -1,7 +1,6 @@
 ---
 layout: default
 name: Nikhil Telkunte
-title: Nikhil Telkunte
 description: All the late nights and early mornings will pay off!
 ---
 ## About Me
