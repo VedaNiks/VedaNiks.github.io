@@ -2,10 +2,10 @@
 layout: default
 title: Nikhil Telkunte
 name: Nikhil Telkunte
-description: All the late nights and early mornings will pay off!
+
 ---
 ## About Me
-Hola amigo! I'm Nikhil Telkunte, persuing my M. Tech. from IIT Madras.I am currently working under [Prof V. Krishna Nandivada](http://www.cse.iitm.ac.in/~krishna/) on Java Optimizations. 
+Hola amigo! I'm Nikhil Telkunte, persuing my M. Tech. from IIT Madras.I am currently working under the guidance of3 [Prof V. Krishna Nandivada](http://www.cse.iitm.ac.in/~krishna/) on Java Optimizations. 
 
 ## Projects
 ### Optimizing Java collection classes
