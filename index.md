@@ -1,5 +1,8 @@
 ---
 layout: default
+name: Nikhil Telkunte
+title: Nikhil Telkunte
+description: All the late nights and early mornings will pay off!
 ---
 ## About Me
 Hola amigo! I'm Nikhil Telkunte, persuing my M. Tech. from IIT Madras.I am currently working under the guidance of [Prof V. Krishna Nandivada](http://www.cse.iitm.ac.in/~krishna/) on Java Optimizations. 
