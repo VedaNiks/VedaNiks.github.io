@@ -27,3 +27,4 @@ I have completed my B. Tech. in Information Technology from [College of Engineer
 
 ## Hobbies
 I'm very fond of trekking. In my spare time I like to play chess, read books. I'm learning Japanese.
+I also like collect quotes, you can check it out [here](/quotes.md)
