@@ -23,4 +23,7 @@ I have worked at [Kyazoonga.com](http://www.kyazoonga.com/) from Jun 2013 to Feb
 developement of site. I had added some new features to the site such as seat layout for events. I had opportunity to see the real time client requirements during Pro Kabbadi Leauge and Caribbean Premier League. 
 
 ## Academics
-I have completed my B. Tech. in Information Technology from [College of Engineering, Pune](http://www.coep.org.in/about/history) one of the oldest and prestigious engineering institute in India.
+I have completed my B. Tech. in Information Technology from [College of Engineering, Pune](http://www.coep.org.in/about/history) one of the oldest and most prestigious engineering institute in India.
+
+## Hobbies
+I'm very fond of trekking. In my spare time I like to play chess, read books. I'm learning Japanese.
