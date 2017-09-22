@@ -16,3 +16,6 @@ optimized.
 - Compiler type-checked the input code and generated an intermediate “miniIR” code.
 - Optimizations such as Conditional Constant Propagation, Loop Transformation and Function Inlining.
 - The intermediate code also underwent points-to-analysis to determine the alias information.
+
+## Work Experience
+I have worked at [Kyazoonga.com](www.kyazoonga.com) from Jun 2013 to Feb 2013.
