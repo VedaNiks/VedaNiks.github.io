@@ -21,7 +21,7 @@ optimized.
 - The intermediate code also underwent points-to-analysis to determine the alias information.
 
 ## Work Experience
-I have worked at [Kyazoonga.com](http://www.kyazoonga.com/) from Jun 2013 to Feb 2013. I worked mainly on maintainance and
+I have worked at [Kyazoonga.com](http://www.kyazoonga.com/) from Jun 2013 to Feb 2015. I worked mainly on maintainance and
 developement of site. I had added some new features to the site such as seat layout for events. I had opportunity to see the real time client requirements during Pro Kabbadi Leauge and Caribbean Premier League. 
 
 ## Academics
