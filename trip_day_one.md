@@ -5,10 +5,10 @@ name : The three musketeers of MalaySia(Cheap trips)
 description: 
 ---
 
-##                   Bunty/Baldy/Laddu  The organizer of the trip (From Bangalore)
-##	                 Nikhil/Telu/Barkya  Second in command (From Pune)
-##	                 Naresh/Blacky/ReddyBarrolla  backword Rookie (From Hyderabad)
-
+**                 Bunty/Baldy/Laddu  The organizer of the trip (From Bangalore)
+	                 Nikhil/Telu/Barkya  Second in command (From Pune)
+	                 Naresh/Blacky/ReddyBarrolla  backword Rookie (From Hyderabad)
+**
 This time (or the first time), the musketeers had chosen MalaySia as the destination for their adventure. Why MalaySia? As Sia says `cheap thrills` I'll say because of cheap trips. Among the option we had, MalaySia was the cheapest and had very easy visa process. Other options were Thailand and Vietnam which has cumbersome visa process and ticket is also costly. Though they are musketeers they have to account for all these things.
 
 But wait... I was not the part of the plan yet. Stupid Baldy had already made the plan and decided who will go (not me). One fine evening, I called him asking about his prolonged plan of going abroad, He said very enthusiastically that he is already executing the plan and going to MalaySia...and asked me if I can join (finally Yay). But nothing was ready at my end. I had to apply for leaves that too for one whole week whereas they had already had their leaves approved. Again, though they are musketeers they have to account for all these things.
