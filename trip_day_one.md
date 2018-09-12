@@ -5,7 +5,7 @@ name : The three musketeers of MalaySia(Cheap trips)
 description: 
 ---
 
-**Bunty/Baldy/Laddu:The organizer of the trip (From Bangalore)
+**Bunty/Baldy/Laddu:The organizer of the trip (From Bangalore)                                                                                                                              
 **
 **Nikhil/Telu/Barkya:Second in command (From Pune)
 **
