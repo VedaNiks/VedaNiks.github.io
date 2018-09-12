@@ -3,7 +3,6 @@ layout: default
 description: The three musketeers of MalaySia(Cheap trips)
 ---
 
-## Participants ->  
 ##                   Bunty/Baldy/Laddu  The organizer of the trip (From Bangalore)
 ##	                 Nikhil/Telu/Barkya  Second in command (From Pune)
 ##	                 Naresh/Blacky/ReddyBarrolla  backword Rookie (From Hyderabad)
