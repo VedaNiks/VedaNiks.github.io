@@ -1,8 +1,8 @@
 ---
 layout: default
-title : 
-name :
-description: The three musketeers of MalaySia(Cheap trips)
+title : The three musketeers of MalaySia(Cheap trips)
+name : The three musketeers of MalaySia(Cheap trips)
+description: 
 ---
 
 ##                   Bunty/Baldy/Laddu  The organizer of the trip (From Bangalore)
