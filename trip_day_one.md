@@ -1,5 +1,7 @@
 ---
 layout: default
+title : 
+name :
 description: The three musketeers of MalaySia(Cheap trips)
 ---
 
