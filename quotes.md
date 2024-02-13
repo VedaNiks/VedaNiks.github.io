@@ -8,6 +8,3 @@ name: Quotes
 - ### Out beyond the ideas of right and wrong, there is a field. I will meet you there.
 - ### A calm and modest life brings more happiness than the constant pursuit of success bound with constant unrest. ~Albert Einstein
 - ### I wish that everybody could be rich and famous and will have everything they ever dreamed of,so that they can see for themselves, that's not the answer. ~Jim Carrey
-
-## News
-- **20-02-2024** ${\textsf{\color{lightgreen}Green}}$
