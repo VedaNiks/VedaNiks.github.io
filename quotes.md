@@ -3,6 +3,7 @@ layout: default
 title: Quotes
 name: Quotes
 ---
+\[Old\]
 - ### Magic happens when you don't give up, even though you want to. The universe always falls in love with stubborn heart.
 - ### Out beyond the ideas of right and wrong, there is a field. I will meet you there.
 - ### A calm and modest life brings more happiness than the constant pursuit of success bound with constant unrest. ~Albert Einstein
